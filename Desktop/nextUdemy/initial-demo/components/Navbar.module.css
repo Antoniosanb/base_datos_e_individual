@@ -1,0 +1,11 @@
+
+.menuContainer {
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+.menuContainer a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+}
